@@ -60,7 +60,7 @@ This internship was not just an academic exercise—it was a playground for real
 If you’d like to collaborate, discuss ideas, or have a chat about data science, feel free to reach out!
 
 - 📧 Email: prathameshugle39@gmail.com
-- 🌐[LinkedIn]((https://www.linkedin.com/in/prathamesh-ugle-299320326/))
+- 🌐[LinkedIn](https://www.linkedin.com/in/prathamesh-ugle-299320326/)
 
 ---
 
