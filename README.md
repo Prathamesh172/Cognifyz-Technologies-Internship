@@ -39,7 +39,7 @@ Here’s a breakdown of the tasks and key takeaways from the internship:
 ## 🛠️ Tools & Technologies
 
 - **Languages & Frameworks**: Python, Jupyter Notebook
-- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly
 - **Concepts**: Data Cleaning, EDA, Regression Models, Model Evaluation, Pipelines
 
 ---
